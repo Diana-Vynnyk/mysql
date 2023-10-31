@@ -2,7 +2,7 @@
 
 [Screenshots](https://drive.google.com/drive/folders/1rX1SBjM27tKgDkpuPw5f4WRPelr-FUA3?usp=sharing)
 
-[working_services](https://drive.google.com/file/d/1kZk_tTljyml7k0V9J_RC0U-yme4YQv6c/view?usp=sharing)
+[working_services]()
 
 [replica_status](https://drive.google.com/file/d/1lGHfdJwF_RBVL7SfRydbxf8JPdNMMs-Z/view?usp=sharing)
 
